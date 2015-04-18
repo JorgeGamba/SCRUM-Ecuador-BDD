@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TePrestamos.Web", "app\TePrestamos.Web\TePrestamos.Web.csproj", "{BBC387B6-D7C5-4CAD-9D75-F8AB93FC3115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TePrestamos.Web.Specs", "spec\TePrestamos.Web.Specs\TePrestamos.Web.Specs.csproj", "{FD53096F-9A3F-4E97-A3D0-050BE4EF357D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC387B6-D7C5-4CAD-9D75-F8AB93FC3115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC387B6-D7C5-4CAD-9D75-F8AB93FC3115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC387B6-D7C5-4CAD-9D75-F8AB93FC3115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC387B6-D7C5-4CAD-9D75-F8AB93FC3115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD53096F-9A3F-4E97-A3D0-050BE4EF357D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD53096F-9A3F-4E97-A3D0-050BE4EF357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD53096F-9A3F-4E97-A3D0-050BE4EF357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD53096F-9A3F-4E97-A3D0-050BE4EF357D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
